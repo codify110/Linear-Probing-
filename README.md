@@ -9,3 +9,6 @@ If (hash(x) + 1) % S is also full, then we try (hash(x) + 2) % S
 If (hash(x) + 2) % S is also full, then we try (hash(x) + 3) % S 
 
 ![image](https://user-images.githubusercontent.com/69696459/130780319-124dabab-c346-4aa5-a052-8cb95277df19.png)
+
+## Output: 
+![image](https://user-images.githubusercontent.com/69696459/130780499-afaa6172-5d6f-4fc7-a0cd-36be88b93908.png)
