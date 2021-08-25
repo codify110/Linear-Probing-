@@ -1,6 +1,7 @@
 # Linear-Probing-
 
-## Linear Probing: In linear probing, we linearly probe for next slot. For example, the typical gap between two probes is 1 as seen in the example below. 
+## Linear Probing: 
+In linear probing, we linearly probe for next slot. For example, the typical gap between two probes is 1 as seen in the example below. 
 Let hash(x) be the slot index computed using a hash function and S be the table size 
 
 If slot hash(x) % S is full, then we try (hash(x) + 1) % S
